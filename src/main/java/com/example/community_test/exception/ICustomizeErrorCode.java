@@ -5,4 +5,5 @@ package com.example.community_test.exception;
  */
 public interface ICustomizeErrorCode {
     String getMessage();
+    Integer getCode();
 }
